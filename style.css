@@ -45,3 +45,13 @@ input {
 .movie_text span{
     color: gold;
 }
+html{
+    scroll-behavior: smooth;
+}
+.environment_li{
+    margin-top: 15px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
